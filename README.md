@@ -16,3 +16,4 @@ The voice assistant (Alexa) send message to IFTTT . IFTTT is a service which con
 
 UTILITY
 The purpose of this project is to sanitize the hands without touching the things  like the bottle of sanitizer so that we can break the chain of virus by avoiding contact and maintain health, hygiene and cleanliness. 
+ 
